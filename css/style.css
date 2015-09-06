@@ -1,0 +1,13 @@
+
+body {
+	background: #fff;
+
+}
+
+.header {
+	text-align: center;
+}
+
+li a:hover {
+	opacity: 0.8;
+}
